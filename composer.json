@@ -9,11 +9,11 @@
     "description": "适用于hyperf的加密组件",
     "autoload": {
         "psr-4": {
-            "Lijinhua\\HyperfEncryption\\": "src/",
-            "files": [
-                "./src/function.php"
-            ]
-        }
+            "Lijinhua\\HyperfEncryption\\": "src/"
+        },
+        "files": [
+            "./src/function.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
